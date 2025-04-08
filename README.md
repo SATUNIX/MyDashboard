@@ -1,5 +1,5 @@
 # MyDashboard
-Grafana Dashboard
+Grafana dashboard setup for my homelab:
 
 Use the docker file to setup the proxy, use the JSON to import into grafana :) 
 
